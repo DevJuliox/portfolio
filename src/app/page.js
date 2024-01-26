@@ -388,28 +388,24 @@ export default function Home() {
                 <div className="space-y-1">
                   <h3 className="font-semibold tracking-tight text-base">
                     <a
-                      href="https://jarocki.me/"
+                      href="https://juliox.dev/"
                       target="_blank"
                       className="inline-flex items-center gap-1 hover:underline"
                     >
-                      Jarocki.me{" "}
+                      Juliox.dev{" "}
                       <span className="size-1 rounded-full bg-green-500"></span>
                     </a>
                   </h3>
                   <div className="hidden font-mono text-xs underline print:visible">
-                    jarocki.me
+                    juliox.dev
                   </div>
                   <p className="text-muted-foreground font-mono text-xs">
-                    My personal website and blog. Built with Next.js and Notion
-                    API
+                    My personal website and blog. Built with Next.js
                   </p>
                 </div>
               </div>
               <div className="text-pretty font-mono text-sm text-muted-foreground mt-auto flex">
                 <div className="mt-2 flex flex-wrap gap-1">
-                  <div className="inline-flex items-center rounded-md border font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/60 px-1 py-0 text-[10px]">
-                    Side Project
-                  </div>
                   <div className="inline-flex items-center rounded-md border font-semibold font-mono transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-nowrap border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/60 px-1 py-0 text-[10px]">
                     Next.js
                   </div>
